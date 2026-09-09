@@ -1,0 +1,1 @@
+This repository contains my solutions the exercises from my first semester of Software Engineering.
