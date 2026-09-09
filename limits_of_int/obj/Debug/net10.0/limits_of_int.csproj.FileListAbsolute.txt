@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/bin/Debug/net10.0/limits_of_int
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/bin/Debug/net10.0/limits_of_int.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/bin/Debug/net10.0/limits_of_int.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/bin/Debug/net10.0/limits_of_int.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/bin/Debug/net10.0/limits_of_int.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/obj/Debug/net10.0/limits_of_int.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/obj/Debug/net10.0/limits_of_int.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/obj/Debug/net10.0/limits_of_int.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/obj/Debug/net10.0/limits_of_int.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/obj/Debug/net10.0/limits_of_int.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/obj/Debug/net10.0/limits_of_int.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/obj/Debug/net10.0/refint/limits_of_int.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/obj/Debug/net10.0/limits_of_int.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/obj/Debug/net10.0/limits_of_int.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/obj/Debug/net10.0/ref/limits_of_int.dll

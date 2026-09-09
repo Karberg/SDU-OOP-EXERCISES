@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/hello_world/SDU-OOP-EXERCISES.csproj": {}
+    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/celsius_to_fahrenheit.csproj": {}
   },
   "projects": {
-    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/hello_world/SDU-OOP-EXERCISES.csproj": {
+    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/celsius_to_fahrenheit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/hello_world/SDU-OOP-EXERCISES.csproj",
-        "projectName": "SDU-OOP-EXERCISES",
-        "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/hello_world/SDU-OOP-EXERCISES.csproj",
+        "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/celsius_to_fahrenheit.csproj",
+        "projectName": "celsius_to_fahrenheit",
+        "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/celsius_to_fahrenheit.csproj",
         "packagesPath": "/Users/jeppeholmkarberg/.nuget/packages/",
-        "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/hello_world/obj/",
+        "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jeppeholmkarberg/.nuget/NuGet/NuGet.Config"

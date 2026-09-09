@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/bin/Debug/net10.0/celsius_to_fahrenheit
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/bin/Debug/net10.0/celsius_to_fahrenheit.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/bin/Debug/net10.0/celsius_to_fahrenheit.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/bin/Debug/net10.0/celsius_to_fahrenheit.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/bin/Debug/net10.0/celsius_to_fahrenheit.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/obj/Debug/net10.0/celsius_to_fahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/obj/Debug/net10.0/celsius_to_fahrenheit.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/obj/Debug/net10.0/celsius_to_fahrenheit.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/obj/Debug/net10.0/celsius_to_fahrenheit.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/obj/Debug/net10.0/celsius_to_fahrenheit.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/obj/Debug/net10.0/celsius_to_fahrenheit.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/obj/Debug/net10.0/refint/celsius_to_fahrenheit.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/obj/Debug/net10.0/celsius_to_fahrenheit.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/obj/Debug/net10.0/celsius_to_fahrenheit.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit/obj/Debug/net10.0/ref/celsius_to_fahrenheit.dll

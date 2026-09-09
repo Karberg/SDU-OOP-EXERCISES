@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/epoch/bin/Debug/net10.0/epoch
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/epoch/bin/Debug/net10.0/epoch.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/epoch/bin/Debug/net10.0/epoch.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/epoch/bin/Debug/net10.0/epoch.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/epoch/bin/Debug/net10.0/epoch.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/epoch/obj/Debug/net10.0/epoch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/epoch/obj/Debug/net10.0/epoch.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/epoch/obj/Debug/net10.0/epoch.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/epoch/obj/Debug/net10.0/epoch.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/epoch/obj/Debug/net10.0/epoch.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/epoch/obj/Debug/net10.0/epoch.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/epoch/obj/Debug/net10.0/refint/epoch.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/epoch/obj/Debug/net10.0/epoch.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/epoch/obj/Debug/net10.0/epoch.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/epoch/obj/Debug/net10.0/ref/epoch.dll

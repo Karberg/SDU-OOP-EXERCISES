@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/hello_world/SDU-OOP-EXERCISES.csproj": {}
+    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/limits_of_int.csproj": {}
   },
   "projects": {
-    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/hello_world/SDU-OOP-EXERCISES.csproj": {
+    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/limits_of_int.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/hello_world/SDU-OOP-EXERCISES.csproj",
-        "projectName": "SDU-OOP-EXERCISES",
-        "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/hello_world/SDU-OOP-EXERCISES.csproj",
+        "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/limits_of_int.csproj",
+        "projectName": "limits_of_int",
+        "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/limits_of_int.csproj",
         "packagesPath": "/Users/jeppeholmkarberg/.nuget/packages/",
-        "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/hello_world/obj/",
+        "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/limits_of_int/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jeppeholmkarberg/.nuget/NuGet/NuGet.Config"

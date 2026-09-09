@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/daily_differences/bin/Debug/net10.0/daily_differences
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/daily_differences/bin/Debug/net10.0/daily_differences.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/daily_differences/bin/Debug/net10.0/daily_differences.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/daily_differences/bin/Debug/net10.0/daily_differences.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/daily_differences/bin/Debug/net10.0/daily_differences.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/daily_differences/obj/Debug/net10.0/daily_differences.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/daily_differences/obj/Debug/net10.0/daily_differences.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/daily_differences/obj/Debug/net10.0/daily_differences.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/daily_differences/obj/Debug/net10.0/daily_differences.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/daily_differences/obj/Debug/net10.0/daily_differences.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/daily_differences/obj/Debug/net10.0/daily_differences.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/daily_differences/obj/Debug/net10.0/refint/daily_differences.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/daily_differences/obj/Debug/net10.0/daily_differences.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/daily_differences/obj/Debug/net10.0/daily_differences.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/daily_differences/obj/Debug/net10.0/ref/daily_differences.dll
