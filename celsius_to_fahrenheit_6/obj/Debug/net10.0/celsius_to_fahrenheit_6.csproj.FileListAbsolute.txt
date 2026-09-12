@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/obj/Debug/net10.0/celsius_to_fahrenheit_6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/obj/Debug/net10.0/celsius_to_fahrenheit_6.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/obj/Debug/net10.0/celsius_to_fahrenheit_6.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/obj/Debug/net10.0/celsius_to_fahrenheit_6.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/obj/Debug/net10.0/celsius_to_fahrenheit_6.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/bin/Debug/net10.0/celsius_to_fahrenheit_6
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/bin/Debug/net10.0/celsius_to_fahrenheit_6.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/bin/Debug/net10.0/celsius_to_fahrenheit_6.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/bin/Debug/net10.0/celsius_to_fahrenheit_6.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/bin/Debug/net10.0/celsius_to_fahrenheit_6.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/obj/Debug/net10.0/celsius_to_fahrenheit_6.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/obj/Debug/net10.0/refint/celsius_to_fahrenheit_6.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/obj/Debug/net10.0/celsius_to_fahrenheit_6.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/obj/Debug/net10.0/celsius_to_fahrenheit_6.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/obj/Debug/net10.0/ref/celsius_to_fahrenheit_6.dll
