@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/obj/Debug/net10.0/primes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/obj/Debug/net10.0/primes.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/obj/Debug/net10.0/primes.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/obj/Debug/net10.0/primes.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/obj/Debug/net10.0/primes.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/bin/Debug/net10.0/primes
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/bin/Debug/net10.0/primes.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/bin/Debug/net10.0/primes.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/bin/Debug/net10.0/primes.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/bin/Debug/net10.0/primes.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/obj/Debug/net10.0/primes.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/obj/Debug/net10.0/refint/primes.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/obj/Debug/net10.0/primes.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/obj/Debug/net10.0/primes.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/obj/Debug/net10.0/ref/primes.dll

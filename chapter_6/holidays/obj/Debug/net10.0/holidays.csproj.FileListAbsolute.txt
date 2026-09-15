@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/holidays/obj/Debug/net10.0/holidays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/holidays/obj/Debug/net10.0/holidays.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/holidays/obj/Debug/net10.0/holidays.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/holidays/obj/Debug/net10.0/holidays.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/holidays/obj/Debug/net10.0/holidays.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/holidays/bin/Debug/net10.0/holidays
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/holidays/bin/Debug/net10.0/holidays.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/holidays/bin/Debug/net10.0/holidays.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/holidays/bin/Debug/net10.0/holidays.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/holidays/bin/Debug/net10.0/holidays.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/holidays/obj/Debug/net10.0/holidays.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/holidays/obj/Debug/net10.0/refint/holidays.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/holidays/obj/Debug/net10.0/holidays.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/holidays/obj/Debug/net10.0/holidays.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/holidays/obj/Debug/net10.0/ref/holidays.dll

@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/length_of_month/obj/Debug/net10.0/length_of_month.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/length_of_month/obj/Debug/net10.0/length_of_month.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/length_of_month/obj/Debug/net10.0/length_of_month.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/length_of_month/obj/Debug/net10.0/length_of_month.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/length_of_month/obj/Debug/net10.0/length_of_month.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/length_of_month/bin/Debug/net10.0/length_of_month
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/length_of_month/bin/Debug/net10.0/length_of_month.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/length_of_month/bin/Debug/net10.0/length_of_month.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/length_of_month/bin/Debug/net10.0/length_of_month.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/length_of_month/bin/Debug/net10.0/length_of_month.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/length_of_month/obj/Debug/net10.0/length_of_month.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/length_of_month/obj/Debug/net10.0/refint/length_of_month.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/length_of_month/obj/Debug/net10.0/length_of_month.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/length_of_month/obj/Debug/net10.0/length_of_month.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/length_of_month/obj/Debug/net10.0/ref/length_of_month.dll

@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/dice/bin/Debug/net10.0/dice
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/dice/bin/Debug/net10.0/dice.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/dice/bin/Debug/net10.0/dice.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/dice/bin/Debug/net10.0/dice.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/dice/bin/Debug/net10.0/dice.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/dice/obj/Debug/net10.0/dice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/dice/obj/Debug/net10.0/dice.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/dice/obj/Debug/net10.0/dice.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/dice/obj/Debug/net10.0/dice.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/dice/obj/Debug/net10.0/dice.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/dice/obj/Debug/net10.0/dice.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/dice/obj/Debug/net10.0/refint/dice.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/dice/obj/Debug/net10.0/dice.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/dice/obj/Debug/net10.0/dice.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/dice/obj/Debug/net10.0/ref/dice.dll
