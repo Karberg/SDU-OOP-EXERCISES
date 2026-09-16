@@ -1,1 +1,6 @@
-﻿Console.WriteLine("Hello, World!");
+﻿enum Direction {
+north,
+east,
+west,
+south
+}
