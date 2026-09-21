@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/incrementing_a_month/obj/Debug/net10.0/incrementing_a_month.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/incrementing_a_month/obj/Debug/net10.0/incrementing_a_month.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/incrementing_a_month/obj/Debug/net10.0/incrementing_a_month.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/incrementing_a_month/obj/Debug/net10.0/incrementing_a_month.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/incrementing_a_month/obj/Debug/net10.0/incrementing_a_month.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/incrementing_a_month/bin/Debug/net10.0/incrementing_a_month
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/incrementing_a_month/bin/Debug/net10.0/incrementing_a_month.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/incrementing_a_month/bin/Debug/net10.0/incrementing_a_month.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/incrementing_a_month/bin/Debug/net10.0/incrementing_a_month.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/incrementing_a_month/bin/Debug/net10.0/incrementing_a_month.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/incrementing_a_month/obj/Debug/net10.0/incrementing_a_month.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/incrementing_a_month/obj/Debug/net10.0/refint/incrementing_a_month.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/incrementing_a_month/obj/Debug/net10.0/incrementing_a_month.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/incrementing_a_month/obj/Debug/net10.0/incrementing_a_month.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/incrementing_a_month/obj/Debug/net10.0/ref/incrementing_a_month.dll

@@ -1,0 +1,5 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/direction/obj/Debug/net10.0/direction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/direction/obj/Debug/net10.0/direction.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/direction/obj/Debug/net10.0/direction.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/direction/obj/Debug/net10.0/direction.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/direction/obj/Debug/net10.0/direction.sourcelink.json

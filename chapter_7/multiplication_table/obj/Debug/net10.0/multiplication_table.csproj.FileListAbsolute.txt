@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/multiplication_table/obj/Debug/net10.0/multiplication_table.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/multiplication_table/obj/Debug/net10.0/multiplication_table.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/multiplication_table/obj/Debug/net10.0/multiplication_table.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/multiplication_table/obj/Debug/net10.0/multiplication_table.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/multiplication_table/obj/Debug/net10.0/multiplication_table.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/multiplication_table/bin/Debug/net10.0/multiplication_table
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/multiplication_table/bin/Debug/net10.0/multiplication_table.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/multiplication_table/bin/Debug/net10.0/multiplication_table.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/multiplication_table/bin/Debug/net10.0/multiplication_table.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/multiplication_table/bin/Debug/net10.0/multiplication_table.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/multiplication_table/obj/Debug/net10.0/multiplication_table.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/multiplication_table/obj/Debug/net10.0/refint/multiplication_table.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/multiplication_table/obj/Debug/net10.0/multiplication_table.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/multiplication_table/obj/Debug/net10.0/multiplication_table.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/multiplication_table/obj/Debug/net10.0/ref/multiplication_table.dll

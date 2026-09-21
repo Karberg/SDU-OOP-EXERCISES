@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar_prettyprinting/obj/Debug/net10.0/calendar_prettyprinting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar_prettyprinting/obj/Debug/net10.0/calendar_prettyprinting.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar_prettyprinting/obj/Debug/net10.0/calendar_prettyprinting.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar_prettyprinting/obj/Debug/net10.0/calendar_prettyprinting.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar_prettyprinting/obj/Debug/net10.0/calendar_prettyprinting.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar_prettyprinting/bin/Debug/net10.0/calendar_prettyprinting
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar_prettyprinting/bin/Debug/net10.0/calendar_prettyprinting.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar_prettyprinting/bin/Debug/net10.0/calendar_prettyprinting.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar_prettyprinting/bin/Debug/net10.0/calendar_prettyprinting.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar_prettyprinting/bin/Debug/net10.0/calendar_prettyprinting.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar_prettyprinting/obj/Debug/net10.0/calendar_prettyprinting.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar_prettyprinting/obj/Debug/net10.0/refint/calendar_prettyprinting.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar_prettyprinting/obj/Debug/net10.0/calendar_prettyprinting.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar_prettyprinting/obj/Debug/net10.0/calendar_prettyprinting.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar_prettyprinting/obj/Debug/net10.0/ref/calendar_prettyprinting.dll

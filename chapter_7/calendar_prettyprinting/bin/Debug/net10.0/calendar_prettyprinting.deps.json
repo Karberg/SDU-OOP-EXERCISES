@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "calendar_prettyprinting/1.0.0": {
+        "runtime": {
+          "calendar_prettyprinting.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calendar_prettyprinting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

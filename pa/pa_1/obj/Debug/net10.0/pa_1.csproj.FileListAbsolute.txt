@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/pa/pa_1/bin/Debug/net10.0/pa_1
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/pa/pa_1/bin/Debug/net10.0/pa_1.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/pa/pa_1/bin/Debug/net10.0/pa_1.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/pa/pa_1/bin/Debug/net10.0/pa_1.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/pa/pa_1/bin/Debug/net10.0/pa_1.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/pa/pa_1/obj/Debug/net10.0/pa_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/pa/pa_1/obj/Debug/net10.0/pa_1.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/pa/pa_1/obj/Debug/net10.0/pa_1.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/pa/pa_1/obj/Debug/net10.0/pa_1.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/pa/pa_1/obj/Debug/net10.0/pa_1.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/pa/pa_1/obj/Debug/net10.0/pa_1.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/pa/pa_1/obj/Debug/net10.0/refint/pa_1.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/pa/pa_1/obj/Debug/net10.0/pa_1.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/pa/pa_1/obj/Debug/net10.0/pa_1.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/pa/pa_1/obj/Debug/net10.0/ref/pa_1.dll

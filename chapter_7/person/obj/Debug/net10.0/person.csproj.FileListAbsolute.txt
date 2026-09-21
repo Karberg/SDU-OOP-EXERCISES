@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/person/obj/Debug/net10.0/person.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/person/obj/Debug/net10.0/person.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/person/obj/Debug/net10.0/person.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/person/obj/Debug/net10.0/person.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/person/obj/Debug/net10.0/person.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/person/bin/Debug/net10.0/person
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/person/bin/Debug/net10.0/person.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/person/bin/Debug/net10.0/person.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/person/bin/Debug/net10.0/person.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/person/bin/Debug/net10.0/person.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/person/obj/Debug/net10.0/person.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/person/obj/Debug/net10.0/refint/person.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/person/obj/Debug/net10.0/person.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/person/obj/Debug/net10.0/person.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/person/obj/Debug/net10.0/ref/person.dll

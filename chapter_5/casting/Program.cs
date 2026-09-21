@@ -1,0 +1,3 @@
+﻿bool a = true;
+
+int b = a + 1;

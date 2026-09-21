@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar/obj/Debug/net10.0/calendar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar/obj/Debug/net10.0/calendar.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar/obj/Debug/net10.0/calendar.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar/obj/Debug/net10.0/calendar.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar/obj/Debug/net10.0/calendar.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar/bin/Debug/net10.0/calendar
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar/bin/Debug/net10.0/calendar.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar/bin/Debug/net10.0/calendar.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar/bin/Debug/net10.0/calendar.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar/bin/Debug/net10.0/calendar.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar/obj/Debug/net10.0/calendar.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar/obj/Debug/net10.0/refint/calendar.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar/obj/Debug/net10.0/calendar.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar/obj/Debug/net10.0/calendar.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/calendar/obj/Debug/net10.0/ref/calendar.dll

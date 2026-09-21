@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/casting/obj/Debug/net10.0/casting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/casting/obj/Debug/net10.0/casting.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/casting/obj/Debug/net10.0/casting.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/casting/obj/Debug/net10.0/casting.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/casting/obj/Debug/net10.0/casting.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/casting/bin/Debug/net10.0/casting
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/casting/bin/Debug/net10.0/casting.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/casting/bin/Debug/net10.0/casting.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/casting/bin/Debug/net10.0/casting.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/casting/bin/Debug/net10.0/casting.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/casting/obj/Debug/net10.0/casting.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/casting/obj/Debug/net10.0/refint/casting.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/casting/obj/Debug/net10.0/casting.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/casting/obj/Debug/net10.0/casting.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/casting/obj/Debug/net10.0/ref/casting.dll

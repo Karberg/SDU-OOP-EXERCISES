@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/sudoku_checker/obj/Debug/net10.0/sudoku_checker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/sudoku_checker/obj/Debug/net10.0/sudoku_checker.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/sudoku_checker/obj/Debug/net10.0/sudoku_checker.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/sudoku_checker/obj/Debug/net10.0/sudoku_checker.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/sudoku_checker/obj/Debug/net10.0/sudoku_checker.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/sudoku_checker/bin/Debug/net10.0/sudoku_checker
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/sudoku_checker/bin/Debug/net10.0/sudoku_checker.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/sudoku_checker/bin/Debug/net10.0/sudoku_checker.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/sudoku_checker/bin/Debug/net10.0/sudoku_checker.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/sudoku_checker/bin/Debug/net10.0/sudoku_checker.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/sudoku_checker/obj/Debug/net10.0/sudoku_checker.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/sudoku_checker/obj/Debug/net10.0/refint/sudoku_checker.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/sudoku_checker/obj/Debug/net10.0/sudoku_checker.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/sudoku_checker/obj/Debug/net10.0/sudoku_checker.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/sudoku_checker/obj/Debug/net10.0/ref/sudoku_checker.dll

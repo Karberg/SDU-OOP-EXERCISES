@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/largest_in_array/obj/Debug/net10.0/largest_in_array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/largest_in_array/obj/Debug/net10.0/largest_in_array.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/largest_in_array/obj/Debug/net10.0/largest_in_array.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/largest_in_array/obj/Debug/net10.0/largest_in_array.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/largest_in_array/obj/Debug/net10.0/largest_in_array.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/largest_in_array/bin/Debug/net10.0/largest_in_array
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/largest_in_array/bin/Debug/net10.0/largest_in_array.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/largest_in_array/bin/Debug/net10.0/largest_in_array.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/largest_in_array/bin/Debug/net10.0/largest_in_array.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/largest_in_array/bin/Debug/net10.0/largest_in_array.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/largest_in_array/obj/Debug/net10.0/largest_in_array.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/largest_in_array/obj/Debug/net10.0/refint/largest_in_array.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/largest_in_array/obj/Debug/net10.0/largest_in_array.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/largest_in_array/obj/Debug/net10.0/largest_in_array.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_7/largest_in_array/obj/Debug/net10.0/ref/largest_in_array.dll
