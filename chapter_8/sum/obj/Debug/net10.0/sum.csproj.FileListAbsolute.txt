@@ -1,0 +1,15 @@
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sum\bin\Debug\net10.0\sum.exe
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sum\bin\Debug\net10.0\sum.deps.json
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sum\bin\Debug\net10.0\sum.runtimeconfig.json
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sum\bin\Debug\net10.0\sum.dll
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sum\bin\Debug\net10.0\sum.pdb
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sum\obj\Debug\net10.0\sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sum\obj\Debug\net10.0\sum.AssemblyInfoInputs.cache
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sum\obj\Debug\net10.0\sum.AssemblyInfo.cs
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sum\obj\Debug\net10.0\sum.csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sum\obj\Debug\net10.0\sum.sourcelink.json
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sum\obj\Debug\net10.0\sum.dll
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sum\obj\Debug\net10.0\refint\sum.dll
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sum\obj\Debug\net10.0\sum.pdb
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sum\obj\Debug\net10.0\sum.genruntimeconfig.cache
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sum\obj\Debug\net10.0\ref\sum.dll

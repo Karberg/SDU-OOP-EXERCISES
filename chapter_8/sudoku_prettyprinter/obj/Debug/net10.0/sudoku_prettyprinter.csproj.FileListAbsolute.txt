@@ -1,0 +1,15 @@
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sudoku_prettyprinter\bin\Debug\net10.0\sudoku_prettyprinter.exe
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sudoku_prettyprinter\bin\Debug\net10.0\sudoku_prettyprinter.deps.json
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sudoku_prettyprinter\bin\Debug\net10.0\sudoku_prettyprinter.runtimeconfig.json
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sudoku_prettyprinter\bin\Debug\net10.0\sudoku_prettyprinter.dll
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sudoku_prettyprinter\bin\Debug\net10.0\sudoku_prettyprinter.pdb
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sudoku_prettyprinter\obj\Debug\net10.0\sudoku_prettyprinter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sudoku_prettyprinter\obj\Debug\net10.0\sudoku_prettyprinter.AssemblyInfoInputs.cache
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sudoku_prettyprinter\obj\Debug\net10.0\sudoku_prettyprinter.AssemblyInfo.cs
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sudoku_prettyprinter\obj\Debug\net10.0\sudoku_prettyprinter.csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sudoku_prettyprinter\obj\Debug\net10.0\sudoku_prettyprinter.sourcelink.json
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sudoku_prettyprinter\obj\Debug\net10.0\sudoku_prettyprinter.dll
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sudoku_prettyprinter\obj\Debug\net10.0\refint\sudoku_prettyprinter.dll
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sudoku_prettyprinter\obj\Debug\net10.0\sudoku_prettyprinter.pdb
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sudoku_prettyprinter\obj\Debug\net10.0\sudoku_prettyprinter.genruntimeconfig.cache
+C:\Users\Work\Documents\Code projects\SDU-OOP-EXERCISES\chapter_8\sudoku_prettyprinter\obj\Debug\net10.0\ref\sudoku_prettyprinter.dll
