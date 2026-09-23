@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/factorial_function/obj/Debug/net10.0/factorial_function.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/factorial_function/obj/Debug/net10.0/factorial_function.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/factorial_function/obj/Debug/net10.0/factorial_function.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/factorial_function/obj/Debug/net10.0/factorial_function.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/factorial_function/obj/Debug/net10.0/factorial_function.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/factorial_function/bin/Debug/net10.0/factorial_function
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/factorial_function/bin/Debug/net10.0/factorial_function.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/factorial_function/bin/Debug/net10.0/factorial_function.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/factorial_function/bin/Debug/net10.0/factorial_function.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/factorial_function/bin/Debug/net10.0/factorial_function.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/factorial_function/obj/Debug/net10.0/factorial_function.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/factorial_function/obj/Debug/net10.0/refint/factorial_function.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/factorial_function/obj/Debug/net10.0/factorial_function.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/factorial_function/obj/Debug/net10.0/factorial_function.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/factorial_function/obj/Debug/net10.0/ref/factorial_function.dll

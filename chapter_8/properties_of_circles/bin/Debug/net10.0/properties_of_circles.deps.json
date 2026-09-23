@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "properties_of_circles/1.0.0": {
+        "runtime": {
+          "properties_of_circles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "properties_of_circles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
