@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/own_square_root/obj/Debug/net10.0/own_square_root.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/own_square_root/obj/Debug/net10.0/own_square_root.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/own_square_root/obj/Debug/net10.0/own_square_root.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/own_square_root/obj/Debug/net10.0/own_square_root.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/own_square_root/obj/Debug/net10.0/own_square_root.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/own_square_root/bin/Debug/net10.0/own_square_root
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/own_square_root/bin/Debug/net10.0/own_square_root.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/own_square_root/bin/Debug/net10.0/own_square_root.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/own_square_root/bin/Debug/net10.0/own_square_root.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/own_square_root/bin/Debug/net10.0/own_square_root.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/own_square_root/obj/Debug/net10.0/own_square_root.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/own_square_root/obj/Debug/net10.0/refint/own_square_root.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/own_square_root/obj/Debug/net10.0/own_square_root.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/own_square_root/obj/Debug/net10.0/own_square_root.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/own_square_root/obj/Debug/net10.0/ref/own_square_root.dll
