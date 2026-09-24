@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/indexing/bin/Debug/net10.0/indexing
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/indexing/bin/Debug/net10.0/indexing.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/indexing/bin/Debug/net10.0/indexing.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/indexing/bin/Debug/net10.0/indexing.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/indexing/bin/Debug/net10.0/indexing.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/indexing/obj/Debug/net10.0/indexing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/indexing/obj/Debug/net10.0/indexing.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/indexing/obj/Debug/net10.0/indexing.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/indexing/obj/Debug/net10.0/indexing.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/indexing/obj/Debug/net10.0/indexing.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/indexing/obj/Debug/net10.0/indexing.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/indexing/obj/Debug/net10.0/refint/indexing.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/indexing/obj/Debug/net10.0/indexing.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/indexing/obj/Debug/net10.0/indexing.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/indexing/obj/Debug/net10.0/ref/indexing.dll
