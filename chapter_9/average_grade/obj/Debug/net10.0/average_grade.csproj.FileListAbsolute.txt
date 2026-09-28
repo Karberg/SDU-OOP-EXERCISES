@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/average_grade/obj/Debug/net10.0/average_grade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/average_grade/obj/Debug/net10.0/average_grade.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/average_grade/obj/Debug/net10.0/average_grade.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/average_grade/obj/Debug/net10.0/average_grade.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/average_grade/obj/Debug/net10.0/average_grade.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/average_grade/bin/Debug/net10.0/average_grade
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/average_grade/bin/Debug/net10.0/average_grade.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/average_grade/bin/Debug/net10.0/average_grade.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/average_grade/bin/Debug/net10.0/average_grade.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/average_grade/bin/Debug/net10.0/average_grade.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/average_grade/obj/Debug/net10.0/average_grade.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/average_grade/obj/Debug/net10.0/refint/average_grade.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/average_grade/obj/Debug/net10.0/average_grade.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/average_grade/obj/Debug/net10.0/average_grade.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_9/average_grade/obj/Debug/net10.0/ref/average_grade.dll
