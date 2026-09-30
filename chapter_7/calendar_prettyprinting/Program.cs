@@ -1,4 +1,5 @@
-﻿string[][] calendar = new string[12][];
+﻿
+string[][] calendar = new string[12][];
 int[] days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
 string[] weekDays = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"];
 int currentWeekDay = 0;
@@ -15,4 +16,6 @@ for (int m = 0; m < 12; m++)
     }
 }
 
-Console.WriteLine(calendar[0][0]);
+Console.WriteLine(calendar[0][6]);
+
+

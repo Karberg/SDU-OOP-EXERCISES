@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/discriminants_and_roots/bin/Debug/net10.0/discriminants_and_roots
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/discriminants_and_roots/bin/Debug/net10.0/discriminants_and_roots.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/discriminants_and_roots/bin/Debug/net10.0/discriminants_and_roots.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/discriminants_and_roots/bin/Debug/net10.0/discriminants_and_roots.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/discriminants_and_roots/bin/Debug/net10.0/discriminants_and_roots.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/discriminants_and_roots/obj/Debug/net10.0/discriminants_and_roots.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/discriminants_and_roots/obj/Debug/net10.0/discriminants_and_roots.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/discriminants_and_roots/obj/Debug/net10.0/discriminants_and_roots.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/discriminants_and_roots/obj/Debug/net10.0/discriminants_and_roots.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/discriminants_and_roots/obj/Debug/net10.0/discriminants_and_roots.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/discriminants_and_roots/obj/Debug/net10.0/discriminants_and_roots.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/discriminants_and_roots/obj/Debug/net10.0/refint/discriminants_and_roots.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/discriminants_and_roots/obj/Debug/net10.0/discriminants_and_roots.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/discriminants_and_roots/obj/Debug/net10.0/discriminants_and_roots.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_8/discriminants_and_roots/obj/Debug/net10.0/ref/discriminants_and_roots.dll
