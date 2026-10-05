@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/bin/Debug/net10.0/customers
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/bin/Debug/net10.0/customers.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/bin/Debug/net10.0/customers.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/bin/Debug/net10.0/customers.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/bin/Debug/net10.0/customers.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/obj/Debug/net10.0/customers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/obj/Debug/net10.0/customers.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/obj/Debug/net10.0/customers.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/obj/Debug/net10.0/customers.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/obj/Debug/net10.0/customers.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/obj/Debug/net10.0/customers.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/obj/Debug/net10.0/refint/customers.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/obj/Debug/net10.0/customers.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/obj/Debug/net10.0/customers.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/obj/Debug/net10.0/ref/customers.dll
