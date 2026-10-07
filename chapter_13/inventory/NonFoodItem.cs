@@ -1,6 +1,13 @@
 public class NonFoodItem : Item
 {
-    string[] materials;
+    string[] materials = [];
+
+    public NonFoodItem(string name, double price, string[] materials) : base(name, price)
+    {
+        this.name = name;
+        this.price = price;
+        this.materials = materials;
+    }
 
     public string[] GetMaterials()
     {
@@ -9,6 +16,9 @@ public class NonFoodItem : Item
 
     public override string ToString()
     {
-        return string.Concat(GetName(), " ", GetPrice(), materials);
+
+        string materialsList = string.Join(", ", materials);
+
+        return string.Concat("Name: ", GetName(), ", Price: ", GetPrice(), ", Materials: ", materialsList);
     }
 }
