@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/customers.csproj": {}
+    "C:\\Users\\Work\\Documents\\Code projects\\SDU-OOP-EXERCISES\\chapter_12\\customers\\customers.csproj": {}
   },
   "projects": {
-    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/customers.csproj": {
+    "C:\\Users\\Work\\Documents\\Code projects\\SDU-OOP-EXERCISES\\chapter_12\\customers\\customers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/customers.csproj",
+        "projectUniqueName": "C:\\Users\\Work\\Documents\\Code projects\\SDU-OOP-EXERCISES\\chapter_12\\customers\\customers.csproj",
         "projectName": "customers",
-        "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/customers.csproj",
-        "packagesPath": "/Users/jeppeholmkarberg/.nuget/packages/",
-        "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_12/customers/obj/",
+        "projectPath": "C:\\Users\\Work\\Documents\\Code projects\\SDU-OOP-EXERCISES\\chapter_12\\customers\\customers.csproj",
+        "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Work\\Documents\\Code projects\\SDU-OOP-EXERCISES\\chapter_12\\customers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jeppeholmkarberg/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Work\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.400/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",
