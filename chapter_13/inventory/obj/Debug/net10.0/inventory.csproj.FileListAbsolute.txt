@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_13/inventory/bin/Debug/net10.0/inventory
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_13/inventory/bin/Debug/net10.0/inventory.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_13/inventory/bin/Debug/net10.0/inventory.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_13/inventory/bin/Debug/net10.0/inventory.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_13/inventory/bin/Debug/net10.0/inventory.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_13/inventory/obj/Debug/net10.0/inventory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_13/inventory/obj/Debug/net10.0/inventory.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_13/inventory/obj/Debug/net10.0/inventory.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_13/inventory/obj/Debug/net10.0/inventory.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_13/inventory/obj/Debug/net10.0/inventory.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_13/inventory/obj/Debug/net10.0/inventory.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_13/inventory/obj/Debug/net10.0/refint/inventory.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_13/inventory/obj/Debug/net10.0/inventory.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_13/inventory/obj/Debug/net10.0/inventory.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_13/inventory/obj/Debug/net10.0/ref/inventory.dll
