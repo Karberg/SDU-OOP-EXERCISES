@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/printf/printf.csproj",
+      "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/printf/printf.csproj",
       "projectName": "printf",
-      "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/printf/printf.csproj",
+      "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/printf/printf.csproj",
       "packagesPath": "/Users/jeppeholmkarberg/.nuget/packages/",
-      "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/printf/obj/",
+      "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/printf/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jeppeholmkarberg/.nuget/NuGet/NuGet.Config"

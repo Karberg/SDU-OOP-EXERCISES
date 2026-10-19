@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("incrementing_a_month")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+106f18fa9671a0667ca00f83341c24b2a3d42b0f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38bc9e495115fb2f6af236c99cd249f56f86422d")]
 [assembly: System.Reflection.AssemblyProductAttribute("incrementing_a_month")]
 [assembly: System.Reflection.AssemblyTitleAttribute("incrementing_a_month")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

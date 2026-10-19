@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/christmas_sale/christmas_sale.csproj",
+      "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/christmas_sale/christmas_sale.csproj",
       "projectName": "christmas_sale",
-      "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/christmas_sale/christmas_sale.csproj",
+      "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/christmas_sale/christmas_sale.csproj",
       "packagesPath": "/Users/jeppeholmkarberg/.nuget/packages/",
-      "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/christmas_sale/obj/",
+      "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/christmas_sale/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jeppeholmkarberg/.nuget/NuGet/NuGet.Config"

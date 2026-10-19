@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/dice/dice.csproj",
+      "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/dice/dice.csproj",
       "projectName": "dice",
-      "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/dice/dice.csproj",
+      "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/dice/dice.csproj",
       "packagesPath": "/Users/jeppeholmkarberg/.nuget/packages/",
-      "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/dice/obj/",
+      "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/dice/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jeppeholmkarberg/.nuget/NuGet/NuGet.Config"

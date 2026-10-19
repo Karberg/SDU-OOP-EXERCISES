@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/areas_of_circles/areas_of_circles.csproj": {}
+    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/areas_of_circles/areas_of_circles.csproj": {}
   },
   "projects": {
-    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/areas_of_circles/areas_of_circles.csproj": {
+    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/areas_of_circles/areas_of_circles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/areas_of_circles/areas_of_circles.csproj",
+        "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/areas_of_circles/areas_of_circles.csproj",
         "projectName": "areas_of_circles",
-        "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/areas_of_circles/areas_of_circles.csproj",
+        "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/areas_of_circles/areas_of_circles.csproj",
         "packagesPath": "/Users/jeppeholmkarberg/.nuget/packages/",
-        "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/areas_of_circles/obj/",
+        "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_5/areas_of_circles/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jeppeholmkarberg/.nuget/NuGet/NuGet.Config"

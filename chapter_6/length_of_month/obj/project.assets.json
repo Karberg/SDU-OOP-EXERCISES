@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/length_of_month/length_of_month.csproj",
+      "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/length_of_month/length_of_month.csproj",
       "projectName": "length_of_month",
-      "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/length_of_month/length_of_month.csproj",
+      "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/length_of_month/length_of_month.csproj",
       "packagesPath": "/Users/jeppeholmkarberg/.nuget/packages/",
-      "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/length_of_month/obj/",
+      "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/length_of_month/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jeppeholmkarberg/.nuget/NuGet/NuGet.Config"

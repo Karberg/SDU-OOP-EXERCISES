@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("printf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f8afc6b26338590f4700bcc18a85404f1825bc0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38bc9e495115fb2f6af236c99cd249f56f86422d")]
 [assembly: System.Reflection.AssemblyProductAttribute("printf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("printf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

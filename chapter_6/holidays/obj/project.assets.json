@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/holidays/holidays.csproj",
+      "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/holidays/holidays.csproj",
       "projectName": "holidays",
-      "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/holidays/holidays.csproj",
+      "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/holidays/holidays.csproj",
       "packagesPath": "/Users/jeppeholmkarberg/.nuget/packages/",
-      "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/holidays/obj/",
+      "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/holidays/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jeppeholmkarberg/.nuget/NuGet/NuGet.Config"

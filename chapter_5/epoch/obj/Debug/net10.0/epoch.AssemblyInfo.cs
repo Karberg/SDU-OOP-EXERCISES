@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("epoch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b0ea26b40d238708b48b3170eb8de16ba24cb6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38bc9e495115fb2f6af236c99cd249f56f86422d")]
 [assembly: System.Reflection.AssemblyProductAttribute("epoch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("epoch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/primes.csproj": {}
+    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/primes/primes.csproj": {}
   },
   "projects": {
-    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/primes.csproj": {
+    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/primes/primes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/primes.csproj",
+        "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/primes/primes.csproj",
         "projectName": "primes",
-        "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/primes.csproj",
+        "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/primes/primes.csproj",
         "packagesPath": "/Users/jeppeholmkarberg/.nuget/packages/",
-        "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/primes/obj/",
+        "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/primes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jeppeholmkarberg/.nuget/NuGet/NuGet.Config"

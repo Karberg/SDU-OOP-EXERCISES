@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_14/kittens/bin/Debug/net10.0/kittens
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_14/kittens/bin/Debug/net10.0/kittens.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_14/kittens/bin/Debug/net10.0/kittens.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_14/kittens/bin/Debug/net10.0/kittens.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_14/kittens/bin/Debug/net10.0/kittens.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_14/kittens/obj/Debug/net10.0/kittens.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_14/kittens/obj/Debug/net10.0/kittens.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_14/kittens/obj/Debug/net10.0/kittens.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_14/kittens/obj/Debug/net10.0/kittens.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_14/kittens/obj/Debug/net10.0/kittens.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_14/kittens/obj/Debug/net10.0/kittens.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_14/kittens/obj/Debug/net10.0/refint/kittens.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_14/kittens/obj/Debug/net10.0/kittens.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_14/kittens/obj/Debug/net10.0/kittens.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_14/kittens/obj/Debug/net10.0/ref/kittens.dll

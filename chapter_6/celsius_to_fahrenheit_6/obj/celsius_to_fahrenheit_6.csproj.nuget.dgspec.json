@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/celsius_to_fahrenheit_6.csproj": {}
+    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/celsius_to_fahrenheit_6/celsius_to_fahrenheit_6.csproj": {}
   },
   "projects": {
-    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/celsius_to_fahrenheit_6.csproj": {
+    "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/celsius_to_fahrenheit_6/celsius_to_fahrenheit_6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/celsius_to_fahrenheit_6.csproj",
+        "projectUniqueName": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/celsius_to_fahrenheit_6/celsius_to_fahrenheit_6.csproj",
         "projectName": "celsius_to_fahrenheit_6",
-        "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/celsius_to_fahrenheit_6.csproj",
+        "projectPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/celsius_to_fahrenheit_6/celsius_to_fahrenheit_6.csproj",
         "packagesPath": "/Users/jeppeholmkarberg/.nuget/packages/",
-        "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/celsius_to_fahrenheit_6/obj/",
+        "outputPath": "/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_6/celsius_to_fahrenheit_6/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jeppeholmkarberg/.nuget/NuGet/NuGet.Config"

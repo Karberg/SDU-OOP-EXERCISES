@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("discriminants_and_roots")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+926c2ffdcb6b00ce24896ee84dd2971917af28fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38bc9e495115fb2f6af236c99cd249f56f86422d")]
 [assembly: System.Reflection.AssemblyProductAttribute("discriminants_and_roots")]
 [assembly: System.Reflection.AssemblyTitleAttribute("discriminants_and_roots")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

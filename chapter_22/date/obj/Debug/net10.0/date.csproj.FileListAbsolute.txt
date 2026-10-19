@@ -1,0 +1,15 @@
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_22/date/bin/Debug/net10.0/date
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_22/date/bin/Debug/net10.0/date.deps.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_22/date/bin/Debug/net10.0/date.runtimeconfig.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_22/date/bin/Debug/net10.0/date.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_22/date/bin/Debug/net10.0/date.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_22/date/obj/Debug/net10.0/date.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_22/date/obj/Debug/net10.0/date.AssemblyInfoInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_22/date/obj/Debug/net10.0/date.AssemblyInfo.cs
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_22/date/obj/Debug/net10.0/date.csproj.CoreCompileInputs.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_22/date/obj/Debug/net10.0/date.sourcelink.json
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_22/date/obj/Debug/net10.0/date.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_22/date/obj/Debug/net10.0/refint/date.dll
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_22/date/obj/Debug/net10.0/date.pdb
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_22/date/obj/Debug/net10.0/date.genruntimeconfig.cache
+/Users/jeppeholmkarberg/Repositories/SDU-OOP-EXERCISES/chapter_22/date/obj/Debug/net10.0/ref/date.dll
