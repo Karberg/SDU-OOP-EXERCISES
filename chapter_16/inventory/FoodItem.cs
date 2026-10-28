@@ -1,21 +1,28 @@
-public class FoodItem : Item
+class FoodItem : Item
 {
-    DateTime expiresAt;
-
+    private DateTime expiresAt;
     public FoodItem(string name, double price, DateTime expiresAt) : base(name, price)
     {
-        this.name = name;
-        this.price = price;
         this.expiresAt = expiresAt;
     }
-
     public DateTime GetExpiresAt()
     {
         return expiresAt;
     }
-
     public override string ToString()
     {
-        return string.Concat("Name: ", GetName(), ", Price: ", GetPrice().ToString(), ", Expiration date: ", expiresAt.ToShortDateString());
+        return "FoodItem name='" + GetName() + "'"
+                + " price='" + GetPrice() + "'"
+                + " expiresAt='" + GetExpiresAt() + "'"
+                + "Is expired? " + IsExpired();
+    }
+
+    public override bool IsExpired()
+    {
+        if (expiresAt < DateTime.Today)
+        {
+            return true;
+        }
+        return false;
     }
 }

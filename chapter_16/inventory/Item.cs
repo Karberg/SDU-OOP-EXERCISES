@@ -1,26 +1,20 @@
-public class Item
+public abstract class Item : IExpireable
 {
-    public string name = "";
-    public double price = 0;
-
+    private string name;
+    private double price;
     public Item(string name, double price)
     {
         this.name = name;
         this.price = price;
     }
-
+    public abstract bool IsExpired();
     public string GetName()
     {
         return name;
     }
-
     public double GetPrice()
     {
         return price;
     }
-
-    public void Equals()
-    {
-
-    }
 }
+

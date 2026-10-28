@@ -1,54 +1,66 @@
 public class Inventory
 {
     private Item[] items;
-
     public Inventory(Item[] items)
     {
         this.items = items;
     }
-
+    public Inventory() : this(new Item[0])
+    {
+    }
     public void AddItem(Item item)
     {
-        for (int i = 0; i < items.Length; i++)
+        if (!Contains(items, item))
         {
-            if (items[i] == null)
+            Item[] newItems = new Item[items.Length + 1];
+            for (int i = 0; i < items.Length; i++)
             {
-                items[i] = item;
-                return;
+                newItems[i] = items[i];
             }
+            newItems[items.Length] = item;
+            items = newItems;
         }
-        throw new Exception("There is no space in inventory");
     }
-
     public void RemoveItem(Item item)
     {
-        for (int i = 0; i < items.Length; i++)
+        if (Contains(items, item))
         {
-            if (items[i] != null && items[i].GetName() == item.GetName())
+            Item[] newItems = new Item[items.Length - 1];
+            int i = 0;
+            for (; items[i] != item; i++)
             {
-                items[i] = null;
-                return;
+                newItems[i] = items[i];
             }
+            for (i++; i < items.Length; i++)
+            {
+                newItems[i - 1] = items[i];
+            }
+            items = newItems;
         }
-        throw new Exception("The item is not in inventory");
     }
-
-    public double GetInventoryValue()
+    public double GetInventory()
     {
-        double sum = 0;
-
+        double total = 0.0;
         foreach (Item item in items)
         {
-            sum += item.GetPrice();
+            total += item.GetPrice();
         }
-        return sum;
+        return total;
     }
-
     public void PrintInventory()
     {
+        Console.WriteLine("Inventory:");
         foreach (Item item in items)
         {
-            Console.WriteLine(item.ToString());
+            Console.WriteLine(" - " + item);
         }
+    }
+    private bool Contains(Item[] items, Item item)
+    {
+        foreach (Item candidateItem in items)
+        {
+            if (candidateItem == item) return true;
+        }
+        return false;
     }
 }

@@ -1,14 +1,11 @@
-public class NonFoodItem : Item
+class NonFoodItem : Item
 {
-    string[] materials = [];
-
-    public NonFoodItem(string name, double price, string[] materials) : base(name, price)
+    private string[] materials;
+    public NonFoodItem(string name, double price, string[] materials)
+    : base(name, price)
     {
-        this.name = name;
-        this.price = price;
         this.materials = materials;
     }
-
     public string[] GetMaterials()
     {
         return materials;
@@ -16,9 +13,17 @@ public class NonFoodItem : Item
 
     public override string ToString()
     {
+        string m = "[";
+        for (int i = 0; i < materials.Length; i++)
+        {
+            m += (i == 0 ? "" : ",") + materials[i];
+        }
+        m += "]";
+        return "NonFoodItem name='" + GetName() + "' price='" + GetPrice() + "' materials='" + m + "'";
+    }
 
-        string materialsList = string.Join(", ", materials);
-
-        return string.Concat("Name: ", GetName(), ", Price: ", GetPrice(), ", Materials: ", materialsList);
+    public override bool IsExpired()
+    {
+        return false;
     }
 }
