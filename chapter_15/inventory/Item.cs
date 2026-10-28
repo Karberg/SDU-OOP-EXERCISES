@@ -18,4 +18,9 @@ public class Item
     {
         return price;
     }
+
+    public void Equals()
+    {
+
+    }
 }
