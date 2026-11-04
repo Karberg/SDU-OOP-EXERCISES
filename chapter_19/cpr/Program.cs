@@ -25,5 +25,5 @@ foreach (Person person in people)
 }
 
 // Subtask 5:
-Console.WriteLine(peopleDict.GetValueOrDefault("010101-0101"));
+Console.WriteLine(peopleDict["010101-0101"]);
 
